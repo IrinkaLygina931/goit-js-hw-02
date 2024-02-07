@@ -1,3 +1,5 @@
+## задача 1
+
 function getShippingCost(country) {
 let message;
 
